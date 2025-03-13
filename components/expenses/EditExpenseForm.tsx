@@ -43,7 +43,7 @@ export default function EditExpenseForm({ closeModal }: { closeModal: () => void
             >
                 Editar Gasto
             </DialogTitle>
-            <p className="text-xl font-bold">Edita los detalles de un {''}
+            <p className="text-xl font-bold">Edita los detalles de un {''} 
                 <span className="text-amber-500">gasto</span>
             </p>
             <form
